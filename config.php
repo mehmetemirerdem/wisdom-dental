@@ -1,7 +1,7 @@
 <?php
     session_start();
 
-    $mysqli = new mysqli("localhost","285445","qweasdzxc","285445");
+    $mysqli = new mysqli("localhost","root","","projedb");
     
     if ($mysqli -> connect_errno){
         echo("Bir hata meydana geldi!");
