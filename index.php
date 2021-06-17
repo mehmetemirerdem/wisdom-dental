@@ -74,11 +74,21 @@
         <br /><br />
         <table align="center" width="80%" cellpadding="10">
             <tr>
+                <th style="background-color:black;" align="center"><font size="7"><a href="https://github.com/mehmetemirerdem/wisdom-dental" >Github</a></font></th>
+            </tr>
+        </table>
+        
+        <br /><br />
+
+        <table align="center" width="80%" cellpadding="10">
+            <tr>
                 <th class="header" align="center"><font size="7">Artık Dişlerinizi Saklamanıza Gerek YOK!</font></th>
             </tr>
         </table>
         
         <br /><br />
+
+
         <table align="center" width="80%" cellpadding="10">
             <tr>
                 <th class="header" align="left">Hakkımızda</th>
